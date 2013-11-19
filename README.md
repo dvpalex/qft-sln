@@ -1,4 +1,4 @@
 qft-sln
 =======
 
-Projeto - Quick/Quality Fix TI
+Projeto Portal - Quick/Quality Fix TI
