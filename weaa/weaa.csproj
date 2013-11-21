@@ -257,8 +257,7 @@
     <Content Include="__MACOSX\img\._team_member4.jpg" />
     <Content Include="__MACOSX\img\._team_member5.jpg" />
     <Content Include="__MACOSX\img\._team_member6.jpg" />
-    <Content Include="design\.DS_Store" />
-    <Content Include="img\.DS_Store" />
+    <None Include="Properties\PublishProfiles\qft.pubxml" />
     <None Include="Properties\PublishProfiles\weaa.ninb.pubxml" />
     <None Include="Scripts\jquery-1.8.2.intellisense.js" />
     <Content Include="Scripts\jquery-1.8.2.js" />
